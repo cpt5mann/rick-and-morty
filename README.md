@@ -2,7 +2,7 @@
 
 ## Objective
 
-Use your knowledge of HTTP request by using Axios to fetch star wars film information from an API and render to the DOM. Use only ES6.
+Use your knowledge of HTTP request by using Axios to fetch Rick and Morty information from an API and render to the DOM. Use only ES6.
 
 ## Prerequisites
 
