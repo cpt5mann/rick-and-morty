@@ -1,0 +1,15 @@
+#lolres{
+font-family: 'Spicy Rice', cursive;
+}
+img{
+width:200px;
+height:200px;
+}
+body{
+background-color:green;
+}
+#result{
+
+display:flex;
+flex-wrap:wrap;
+}
